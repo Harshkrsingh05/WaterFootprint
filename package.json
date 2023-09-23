@@ -1,0 +1,16 @@
+{
+  "name": "teamhalakh",
+  "version": "1.0.0",
+  "description": "this site is for sih2023",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harsh kumar singh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
