@@ -1,0 +1,7 @@
+.custom-container {
+    background-image: url('/public/images/backgroundimg.png'); /* Replace 'your-image.jpg' with your image path */
+    background-size: cover; /* Adjust the background size as needed */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Optional: Makes the background image fixed */
+    padding: 40px; /* Add padding to the container as needed */
+}
